@@ -1,0 +1,16 @@
+{
+  "name": "A11y Questions",
+  "type": "module",
+  "version": "0.0.1",
+  "author": "Melanie Sumner (melaniersumner@gmail.com)",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^4.16.6"
+  }
+}
